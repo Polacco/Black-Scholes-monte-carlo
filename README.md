@@ -29,7 +29,7 @@ esa convergencia respeta la ley estadistica que la predice.
 ├── src/
 │ ├── black_scholes.py # Fórmulas analíticas, griegas, vol. implícita
 │ └── simulation.py # Simulación GBM y pricing Monte Carlo
-├── tests/ # 15 tests unitarios (precios, paridad put-call, griegas)
+├── tests/ # test_black_scholes.py 
 └── requirements.txt
 
 
