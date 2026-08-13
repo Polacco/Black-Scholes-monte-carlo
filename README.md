@@ -25,12 +25,15 @@ esa convergencia respeta la ley estadistica que la predice.
 
 
 ## Estructura del proyecto
+
+
 ├── notebooks/ # Notebooks con las visualizaciones y el análisis
 ├── src/
 │ ├── black_scholes.py # Fórmulas analíticas, griegas, vol. implícita
 │ └── simulation.py # Simulación GBM y pricing Monte Carlo
 ├── tests/ # test_black_scholes.py 
 └── requirements.txt
+
 
 
 ## Cómo correrlo
